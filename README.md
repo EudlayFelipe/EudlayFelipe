@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33FF00&size=35&center=true&vCenter=true&width=1000&lines=HeyThere!,+I'm+Eudlay+Felipe;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Game+Development;Going+to+graduate+in+System+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EudlayFelipe&bg_color=000000&color=2bff00&line=0400ff&point=f0d000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EudlayFelipe&bg_color=000000&color=002aff&line=f0d000&point=008a17&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EudlayFelipe&show_icons=true&count_private=true&hide_border=true&title_color=33FF00&icon_color=33FF00&text_color=c9d1d9&bg_color=0d1117" alt="Eudlay Felipe github stats" /> 
