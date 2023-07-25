@@ -30,6 +30,15 @@
 <img align="center" alt="Eud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+
+
+##
+- 🔭 I’m currently working with Game Dev && front-end as a freelancer...
+- 🌱 I’m currently learning HTML, CSS, JS, Python...
+- ⚡ Fun fact: I "JIM" 😎...
+
+
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EudlayFelipe}/count.svg" /></p> 
@@ -38,10 +47,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33FF00&height=120&section=footer"/>
-
-
-- 🔭 I’m currently working with Game Dev && front-end as a freelancer...
-- 🌱 I’m currently learning HTML, CSS, JS, Python...
-- ⚡ Fun fact: I "JIM" 😎...
-
-
